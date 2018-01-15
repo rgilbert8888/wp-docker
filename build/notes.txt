@@ -1,0 +1,3 @@
+Built from wordpress php5.6 base with modifications to Dockerfile to change version to 4.7.8
+
+https://github.com/docker-library/wordpress/tree/6a085d90853b8baffadbd3f0a41d6814a2513c11/php5.6/apache
